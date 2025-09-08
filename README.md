@@ -1,7 +1,6 @@
 # Energy-Efficient Solar Powered Irrigation System
 
 **Author:** Siti Nurbalqis binti Jaanavaskhan  
-**Matric No.:** A22EE0307  
 **Degree:** Bachelor of Electrical-Mechatronics Engineering, Universiti Teknologi Malaysia  
 **Year:** 2025  
 
@@ -54,4 +53,4 @@ The system integrates **IoT (Internet of Things)**, **renewable energy**, and **
 ---
 
 ## 📐 System Architecture
-![System Architecture](images/system_architecture.png)
+
