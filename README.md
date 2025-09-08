@@ -54,4 +54,4 @@ The system integrates **IoT (Internet of Things)**, **renewable energy**, and **
 ---
 
 ## 📐 System Architecture
-![System Architecture Diagram](images/system_architecture.png)
+![System Architecture](images/system_architecture.png)
